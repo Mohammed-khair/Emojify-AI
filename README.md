@@ -2,6 +2,14 @@
 
 This notebook demonstrates the process of building an Emojify model using word embeddings and LSTM layers to predict appropriate emojis for input sentences. The model utilizes pre-trained GloVe word vectors for word representations and employs Keras for implementation.
 
+## Acknowledgements
+
+In this notebook, we'll be using GloVe vectors for our word embeddings. The GloVe vectors were introduced in the following paper:
+
+Jeffrey Pennington, Richard Socher, and Christopher D. Manning. 2014. [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf).
+
+Parts of this notebook was done as an exercise in the Coursera course: [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models).
+
 ## Contents
 
 1. Introduction
